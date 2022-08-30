@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 # Hpcc Systems Hackathon
 
 ## Problem statement
@@ -36,4 +35,4 @@ We had to find best match for a youth based on the rules.
 [Video Explaination](https://www.youtube.com/watch?v=vuapZzsUsfw)
 
 [Presentation](https://docs.google.com/presentation/d/1itl1uWHIJwYm_4pRs8zfFRVT2doOrVWh/edit?usp=sharing&ouid=116259420317309220306&rtpof=true&sd=true)
->>>>>>> 83a85d2d78dfcd8853cef5fb1f9d84c3c625d818
+
